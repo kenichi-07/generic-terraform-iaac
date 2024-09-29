@@ -1,6 +1,3 @@
-Here’s a README file based on your provided Terraform configuration:
-
----
 
 # Terraform AWS EC2 Infrastructure as Code (IaC) Example
 
